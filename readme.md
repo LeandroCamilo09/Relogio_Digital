@@ -14,9 +14,15 @@ Entender como obter informações globais da internet, no caso informação de h
 
 É uma proposta simples de uma plataforma web que mostra a atual hora, segundos e minutos.
 
+<img src="./img/Pagina.gif">
+
 ## Dispositivos:
 
-O projeto tem resposividade para qualquer tipo de tela.
+O projeto tem resposividade para qualquer tipo de tela.<br>
+
+|            Tablete            |            Celular            |
+| :---------------------------: | :---------------------------: |
+| <img src="./img/tablete.png"> | <img src="./img/CELULAR.png"> |
 
 ## Equipe:
 

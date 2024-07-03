@@ -22,7 +22,7 @@ O projeto tem resposividade para qualquer tipo de tela.<br>
 
 |            Tablete            |            Celular            |
 | :---------------------------: | :---------------------------: |
-| <img src="./img/tablete.png"> | <img src="./img/CELULAR.png"> |
+| <img src="./img/tablete.png"> | <img src="./img/celular.png"> |
 
 ## Equipe:
 

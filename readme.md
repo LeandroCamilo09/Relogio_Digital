@@ -1,5 +1,7 @@
 # Relógio Digital
 
+<img src="./img/Clock_Digital.png">
+
 ### Abrir e rodar o projeto:
 
 https://leandrocamilo09.github.io/Relogio_Digital/
@@ -15,3 +17,13 @@ Entender como obter informações globais da internet, no caso informação de h
 ## Dispositivos:
 
 O projeto tem resposividade para qualquer tipo de tela.
+
+## Equipe:
+
+- `Leandro Camilo`
+
+## Tecnologias utilizadas:
+
+- `JavaScript`
+- `HTML`
+- `Css`
